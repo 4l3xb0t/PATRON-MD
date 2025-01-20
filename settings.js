@@ -1,6 +1,6 @@
 global.bankname = "4l3x"
 
-global.banknumber = "242041029122"
+global.banknumber = "242067410576"
 
 global.bankowner = "b0t"
 
